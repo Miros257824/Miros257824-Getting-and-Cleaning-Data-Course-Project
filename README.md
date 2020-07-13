@@ -49,4 +49,4 @@ You should create one R script called run_analysis.R that does the following.
 #set with the average of each variable for each activity and each subject.
 
 	#First:  make a second tidy data set.
-	#Second: writing the tidy data set in txt file
+	#Second Writing second tidy data set in txt file
